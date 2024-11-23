@@ -1,0 +1,12 @@
+/* Add application styles & imports to this file! */
+a {
+  padding: 10px 20px;
+  border: 2px solid green;
+  margin-right: 10px;
+}
+
+.content {
+  margin-top: 20px;
+  border: 2px solid blue;
+  padding: 10px 20px;
+}
